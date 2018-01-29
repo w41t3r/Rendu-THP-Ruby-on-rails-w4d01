@@ -20,3 +20,6 @@
 <h3>MVC</h3>
 <p>Le <strong>MVC</strong> pour Model View Controller sert à structuré le code avec plusieurs types de fichiers(.rb, .html.erb). Une partie pour l'affichage(View)(HTML.erb qui renvoi une page HTML).<br>Une partie pour accéder à la base de données et la manipulée(Model)(.rb).<br>
 Une autre partie qui traitera le code brut(Controller)(.rb) on y mettra les classes, les méthodes...<br></p>
+
+<h3>Les routes</h3>
+<p><strong>Les routes</strong> sont les chemins d'accès aux index et aux pages HTML du site, elles se trouvent dans la barre de recherche avec des "/".Ex http://guides.rubyonrails.org <mark>/active_record_callbacks.html</mark></p>
