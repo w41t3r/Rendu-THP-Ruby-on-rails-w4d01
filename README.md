@@ -18,4 +18,5 @@
 <p>Un <strong>site dynamique</strong> est un site qui renvoi une réponse par rapport au paramètre reçu de l'utilisateur(identifiants, géolocalisation, fils d'actualités...), de ce fait une même adresse URL n'affichera pas le même résultat pour tous les utilisateurs.<br></p>
 
 <h3>MVC</h3>
-<p>Le <strong>MVC</strong> pour Model View Controller</p>
+<p>Le <strong>MVC</strong> pour Model View Controller sert à structuré le code avec plusieurs types de fichiers(.rb, .html.erb). Une partie pour l'affichage(View)(HTML.erb qui renvoi une page HTML).<br>Une partie pour accéder à la base de données et la manipulée(Model)(.rb).<br>
+Une autre partie qui traitera le code brut(Controller)(.rb) on y mettra les classes, les méthodes...<br></p>
