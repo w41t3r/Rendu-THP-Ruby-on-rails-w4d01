@@ -22,4 +22,4 @@
 Une autre partie qui traitera le code brut(Controller)(.rb) on y mettra les classes, les méthodes...<br></p>
 
 <h3>Les routes</h3>
-<p><strong>Les routes</strong> sont les chemins d'accès aux index et aux pages HTML du site, elles se trouvent dans la barre de recherche avec des "/".Ex http://guides.rubyonrails.org <mark>/active_record_callbacks.html</mark></p>
+<p><strong>Les routes</strong> sont les chemins d'accès aux index et aux pages HTML du site, elles se trouvent dans la barre de recherche avec des "/".Ex http://guides.rubyonrails.org <em>/active_record_callbacks.html</em></p>
