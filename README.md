@@ -27,8 +27,8 @@ Une autre partie qui traitera le code brut(Controller)(.rb) on y mettra les clas
 <p>La <em>Base De Données</em> ou <em>BDD</em> permet de stocké et organisé les données(id utilisateur, mot de passe, photos, informations de paiements...).<br></p>
 
 <h3>GET/POST</h3>
-<p>GET renvoi quelque chose à l'utilisateur.<br>
-POST va créer un élément(formulaire).</p>
+<p><em>GET</em> renvoi quelque chose à l'utilisateur.<br>
+	<em>POST</em> va créer un élément(formulaire).</p>
 
 <h3>Le concept de migration</h3>
 <p>La <em>migration</em> sert un créé une table de BDD, à la modifier ou la supprimer.<br></p>
