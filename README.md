@@ -13,7 +13,7 @@
 	<li>Les fonctions du CRUD</li>
 </ul>
 <h3>Difference entre un site statique et un site dynamic</a></h3>
-<p>Un <strong>site statique</strong> est un site qui ne change pas et n'intéragie pas selon l'utilisateur(la géolocalisation, les recherches précédentes...), il sera toujours le même (même si on rafraichi éternellement la page HTML sera toujours la même), le site peut contenir des vidéos, des GIFs et des musiques mais sera quand même static car les animations ne le  rendent pas dynamic pour autan.</p>
+<p>Un <strong>site statique</strong> est un site qui ne change pas et n'intéragie pas selon l'utilisateur(la géolocalisation, les recherches précédentes...), il sera toujours le même (même si on rafraichi éternellement, la page HTML sera toujours la même), le site peut contenir des vidéos, des GIFs et des musiques mais sera quand même static car les animations ne le  rendent pas dynamic pour autan.</p>
 <p>Un <strong>site dynamique</strong> est un site qui renvoi une réponse par rapport au paramètre reçu de l'utilisateur(identifiants, géolocalisation, fils d'actualités...), de ce fait une même adresse URL n'affichera pas le même résultat pour tous les utilisateurs.<br></p>
 
 <h3>MVC</h3>
