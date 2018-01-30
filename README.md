@@ -37,4 +37,4 @@ Une autre partie qui traitera le code brut(Controller)(.rb) on y mettra les clas
 <p>Les models communique avec la BDD pour y récupérer des éléments référencer par ID.</p>
 
 <h3>Les fonctions CRUD</h3>
-<p>CRUD est un acronyme anglais pour Create Read Update Delete qui correspond à 4 fonctions nécessaires pour gérer une BDD.</p>
+<p><em>CRUD</em> est un acronyme anglais pour Create Read Update Delete qui correspond à 4 fonctions nécessaires pour gérer une BDD.</p>
