@@ -1,4 +1,3 @@
-
 # Rendu-THP-Ruby-on-rails-w4d01
 
 <h1>Initiation à Rails</h1>
@@ -7,7 +6,7 @@
 	<li><a href="https://github.com/sebbai/Rendu-THP-Ruby-on-rails-w4d01/new/master?readme=1#site-statique-et-site-dynamic"> Différence entre un site statique et un site dynamic</a></li>
 	<li><a href="https://github.com/sebbai/Rendu-THP-Ruby-on-rails-w4d01/new/master?readme=1">Le MVC</a></li>
 	<li><a href="https://github.com/sebbai/Rendu-THP-Ruby-on-rails-w4d01/new/master?readme=1">Les routes</a></li>
-	<li><a href="https://github.com/sebbai/Rendu-THP-Ruby-on-rails-w4d01/new/master?readme=1">Les Bases De Données</a></li>
+	<li><a href="https://github.com/sebbai/Rendu-THP-Ruby-on-rails-w4d01/new/master?readme=1">Les Bases De Données(BDD)</a></li>
 	<li><a href="https://github.com/sebbai/Rendu-THP-Ruby-on-rails-w4d01/new/master?readme=1">GET/POST</a></li>
 	<li><a href="https://github.com/sebbai/Rendu-THP-Ruby-on-rails-w4d01/new/master?readme=1">Le concept de migration</a></li>
 	<li><a href="https://github.com/sebbai/Rendu-THP-Ruby-on-rails-w4d01/new/master?readme=1">Les relations entre les models des BDD</a></li>
@@ -22,4 +21,19 @@
 Une autre partie qui traitera le code brut(Controller)(.rb) on y mettra les classes, les méthodes...<br></p>
 
 <h3>Les routes</h3>
-<p><strong>Les routes</strong> sont les chemins d'accès aux index et aux pages HTML du site, elles se trouvent dans la barre de recherche avec des "/".Ex http://guides.rubyonrails.org<mark><em>/active_record_callbacks.html</em></mark></p>
+<p><strong>Les routes</strong> sont les chemins d'accès aux index et aux pages HTML du site, elles se trouvent dans la barre de recherche avec des "/". Ex http://guides.rubyonrails.org<mark><em>/active_record_callbacks.html</em></mark> la partie en italique est la route. Le nom peut être plus ou moins explicite</p>
+
+<h3>Les Bases De Données(BDD)</h3>
+<p>La <em>Base De Données</em> ou <em>BDD</em> permet de stocké et organisé les données(id utilisateur, mot de passe, photos, informations de paiements...)<br></p>
+
+<h3>GET/POST</h3>
+<p>GET</p>
+
+<h3>Le concept de migration</h3>
+<p>La <em>migration</em> sert un créé une table de BDD, à la modifier ou la supprimer.<br></p>
+
+<h3>Les relations entre les models des BDD</h3>
+<p>Les models communique avec la BDD pour y récupérer des éléments référencer par ID</p>
+
+<h3>Les fonctions CRUD</h3>
+<p>CRUD est un acronyme anglais pour Create Read Update Delete qui correspond à 4 fonctions nécessaires pour gérer une BDD.</p>
